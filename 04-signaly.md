@@ -1,4 +1,4 @@
-Часть А
+# Часть А
 ## Запустил в фоновом режиме и прописал kill
 ~~~
 gao@fedora:~$ ~/upryamy.sh &
@@ -22,7 +22,7 @@ gao@fedora:~$ ps -p 4576 -o pid,stat,cmd
     PID STAT CMD
 ~~~
 
-Часть Б
+# Часть Б
 ## Остановленные процессы
 ~~~
 gao@fedora:~$ jobs 
